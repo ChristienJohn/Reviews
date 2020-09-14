@@ -4,7 +4,7 @@ const HomePage = () => (
     <>
     <h1>Hello, this is Reviews!</h1>
     <p>
-        Home page for the Reviews!!
+        Home page for the Reviews!
     </p>
     </>
     
